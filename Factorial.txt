@@ -1,0 +1,22 @@
+public class Demo
+
+{
+    
+   public static void main(String[] args)
+    {
+        
+       int i,f=1,n=5;
+   
+         for(i=1;i<=n;i++)
+     
+         {
+       
+         f=i*f;
+     
+         }
+    
+     System.out.println("factorial of "+n+ " is : "+f);
+    
+    }
+
+ }
